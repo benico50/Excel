@@ -1,10 +1,13 @@
-PREREQUSITES:
+**PREREQUISITES:**
+
     sys
     os
     openpyxl
 
-INSTALLING:
+**INSTALLING:**
+
     obtain example .xlsx file and test
 
-AUTHOR:
+**AUTHOR:**
+
     Ben Nicholls
